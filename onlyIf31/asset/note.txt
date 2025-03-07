@@ -22,5 +22,5 @@
 22. शिखा		: crest
 23. परिभाषा	: definition
 24. विस्मय		: astonishment
-25. रंग		: colourisation
+25. रंगीन		: colourisation
 26. वर्णन		: description
