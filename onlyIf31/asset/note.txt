@@ -1,26 +1,86 @@
+कण			: partition
 1. नियम		: principle
 2. कानून		: lawful
 3. असंख्य		: innumerable
 4. कार्यक्षम		: efficiency
-5. अद्वितीय	: uniqueness
+5. अद्वितीय		: uniqueness
 6. जरूरत		: requirement
 7. प्रशिक्षण		: exercise
 8. प्रवाद		: expression
-9. क्रम		: series
+9. क्रम			: series
 10. प्रकृति		: characterisation
 11. आश्रय		: resort
 12. क्रीड़ा		: practice
 13. संघ		: union
 14. मौजूद		: presence
 15. व्यक्ति		: personify
-16. अंतरिक्ष	: atmosphere
+16. अंतरिक्ष		: atmosphere
 17. संधि		: association
 18. दर्ज		: registration
-19. वर्ग		: catalogue
-20. आधारित	: substance
+19. वर्ग			: catalogue
+20. आधारित		: substance
 21. उत्पत्ति		: origin
 22. शिखा		: crest
-23. परिभाषा	: definition
+23. परिभाषा		: definition
 24. विस्मय		: astonishment
 25. रंगीन		: colourful
 26. वर्णन		: description
+पक्ष			: factor
+
+कण
+नियम
+कानून
+असंख्य
+कार्यक्षम
+अद्वितीय
+जरूरत
+प्रशिक्षण
+प्रवाद
+क्रम
+प्रकृति
+आश्रय
+क्रीड़ा
+संघ
+मौजूद
+व्यक्ति
+अंतरिक्ष
+संधि
+दर्ज
+वर्ग
+आधारित
+उत्पत्ति
+शिखा
+परिभाषा
+विस्मय
+रंगीन
+वर्णन
+पक्ष
+
+partition
+principle
+lawful
+innumerable
+efficiency
+uniqueness
+requirement
+exercise
+expression
+series
+characterisation
+resort
+practice
+union
+presence
+personify
+atmosphere
+association
+registration
+catalogue
+substance
+origin
+crest
+definition
+astonishment
+colourful
+description
+factor
