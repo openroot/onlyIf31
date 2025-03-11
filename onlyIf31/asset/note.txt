@@ -8,14 +8,14 @@
 7. प्रशिक्षण		: exercise				pouch
 8. प्रवाद		: expression			punch
 9. क्रम		: series				switch
-10. प्रकृति		: characterisation
+10. प्रकृति		: characterisation		each
 11. आश्रय		: resort
 12. क्रीड़ा		: practice
 13. संघ		: union
 14. मौजूद		: presence
 15. व्यक्ति		: personify
 16. अंतरिक्ष		: atmosphere
-17. संधि		: association
+17. संधि		: association			such
 18. दर्ज		: registration			attach
 19. वर्ग		: catalogue				torch
 20. आधारित		: substance				pitch
@@ -94,14 +94,14 @@ latch
 pouch
 punch
 switch
+each
 
 
 
 
 
 
-
-
+such
 attach
 torch
 pitch
