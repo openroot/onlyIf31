@@ -1,4 +1,4 @@
-कण			:	partition				
+कण			:	partition			approach	
 1. नियम		:	principle			batch
 2. कानून		:	lawful				patch
 3. असंख्य		:	innumerable			fetch
@@ -25,7 +25,7 @@
 24. विस्मय		:	astonishment		match
 25. रंगीन		:	colourful			hatch
 26. वर्णन		:	description			catch
-पक्ष			:	factor
+पक्ष			:	factor				research
 
 कण
 नियम
@@ -85,6 +85,7 @@ colourful
 description
 factor
 
+approach
 batch
 patch
 fetch
@@ -111,3 +112,4 @@ touch
 match
 hatch
 catch
+research
