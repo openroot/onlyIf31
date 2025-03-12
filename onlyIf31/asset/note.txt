@@ -1,11 +1,11 @@
-कण			:	partition			approach	
-1. नियम		:	principle			batch
-2. कानून		:	lawful				patch
-3. असंख्य		:	innumerable			fetch
-4. कार्यक्षम		:	efficiency			bunch
-5. अद्वितीय		:	uniqueness			teach
-6. जरूरत		:	requirement			latch
-7. प्रशिक्षण		:	exercise			pouch
+कण			:	partition			approach			cosmos
+1. नियम		:	principle			batch				powder
+2. कानून		:	lawful				patch				paste
+3. असंख्य		:	innumerable			fetch				soap
+4. कार्यक्षम		:	efficiency			bunch				cake
+5. अद्वितीय		:	uniqueness			teach				oil
+6. जरूरत		:	requirement			latch				fabric
+7. प्रशिक्षण		:	exercise			pouch				net
 8. प्रवाद		:	expression			punch
 9. क्रम		:	series				switch
 10. प्रकृति		:	characterisation	each
@@ -18,14 +18,14 @@
 17. संधि		:	association			such
 18. दर्ज		:	registration		attach
 19. वर्ग		:	catalogue			torch
-20. आधारित		:	substance			pitch
-21. उत्पत्ति		:	origin				reach
-22. शिखा		:	crest				watch
-23. परिभाषा		:	definition			touch
-24. विस्मय		:	astonishment		match
-25. रंगीन		:	colourful			hatch
-26. वर्णन		:	description			catch
-पक्ष			:	factor				research
+20. आधारित		:	substance			pitch				total
+21. उत्पत्ति		:	origin				reach				frequency
+22. शिखा		:	crest				watch				interest
+23. परिभाषा		:	definition			touch				band
+24. विस्मय		:	astonishment		match				roam
+25. रंगीन		:	colourful			hatch				file
+26. वर्णन		:	description			catch				version
+पक्ष			:	factor				research			policy
 
 कण
 नियम
