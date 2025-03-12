@@ -11,7 +11,7 @@
 10. प्रकृति		:	characterisation	each				paper
 11. आश्रय		:	resort				much				fluid				stitch
 12. क्रीड़ा		:	practice			crunch				volume
-13. संघ		:	union				march
+13. संघ		:	union				march				static
 14. मौजूद		:	presence			bench				standard
 15. व्यक्ति		:	personify			speech				issue
 16. अंतरिक्ष		:	atmosphere			arch				frame				search
@@ -127,7 +127,7 @@ new
 paper
 fluid
 volume
-
+static
 standard
 issue
 frame
