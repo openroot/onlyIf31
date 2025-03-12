@@ -6,18 +6,18 @@
 5. अद्वितीय		:	uniqueness			teach				oil
 6. जरूरत		:	requirement			latch				fabric
 7. प्रशिक्षण		:	exercise			pouch				net
-8. प्रवाद		:	expression			punch
-9. क्रम		:	series				switch
-10. प्रकृति		:	characterisation	each
+8. प्रवाद		:	expression			punch				random
+9. क्रम		:	series				switch				new
+10. प्रकृति		:	characterisation	each				paper
 11. आश्रय		:	resort				much				stitch
 12. क्रीड़ा		:	practice			crunch
 13. संघ		:	union				march
 14. मौजूद		:	presence			bench
 15. व्यक्ति		:	personify			speech
 16. अंतरिक्ष		:	atmosphere			arch				search
-17. संधि		:	association			such
-18. दर्ज		:	registration		attach
-19. वर्ग		:	catalogue			torch
+17. संधि		:	association			such				case
+18. दर्ज		:	registration		attach				base
+19. वर्ग		:	catalogue			torch				key
 20. आधारित		:	substance			pitch				total
 21. उत्पत्ति		:	origin				reach				frequency
 22. शिखा		:	crest				watch				interest
@@ -113,3 +113,32 @@ match
 hatch
 catch
 research
+
+cosmos
+powder
+paste
+soap
+cake
+oil
+fabric
+net
+random
+new
+paper
+
+
+
+
+
+
+case
+base
+key
+total
+frequency
+interest
+band
+roam
+file
+version
+policy
