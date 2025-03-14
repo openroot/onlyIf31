@@ -21,7 +21,7 @@
 20. आधारित		:	substance			pitch				total
 21. उत्पत्ति		:	origin				reach				frequency
 22. शिखा		:	crest				watch				interest
-23. परिभाषा		:	definition			touch				band
+23. परिभाषा		:	definition			touch				band				program
 24. विस्मय		:	astonishment		match				roam				ray
 25. रंगीन		:	colourful			hatch				file				system
 26. वर्णन		:	description			catch				version				syndicate
@@ -166,7 +166,7 @@ thread
 
 
 
-
+program
 ray
 system
 syndicate
