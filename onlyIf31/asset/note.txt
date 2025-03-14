@@ -1,7 +1,7 @@
-कण			:	partition			approach			cosmos
-1. नियम		:	principle			batch				powder
-2. कानून		:	lawful				patch				paste
-3. असंख्य		:	innumerable			fetch				soap
+कण			:	partition			approach			cosmos				stitch
+1. नियम		:	principle			batch				powder				thin
+2. कानून		:	lawful				patch				paste				pit
+3. असंख्य		:	innumerable			fetch				soap				thread
 4. कार्यक्षम		:	efficiency			bunch				cake
 5. अद्वितीय		:	uniqueness			teach				oil
 6. जरूरत		:	requirement			latch				fabric
@@ -9,12 +9,12 @@
 8. प्रवाद		:	expression			punch				random
 9. क्रम		:	series				switch				new
 10. प्रकृति		:	characterisation	each				paper
-11. आश्रय		:	resort				much				fluid				stitch
+11. आश्रय		:	resort				much				fluid				
 12. क्रीड़ा		:	practice			crunch				volume
 13. संघ		:	union				march				static
 14. मौजूद		:	presence			bench				standard
 15. व्यक्ति		:	personify			speech				issue
-16. अंतरिक्ष		:	atmosphere			arch				frame				search
+16. अंतरिक्ष		:	atmosphere			arch				frame
 17. संधि		:	association			such				case
 18. दर्ज		:	registration		attach				base
 19. वर्ग		:	catalogue			torch				key
@@ -22,10 +22,10 @@
 21. उत्पत्ति		:	origin				reach				frequency
 22. शिखा		:	crest				watch				interest
 23. परिभाषा		:	definition			touch				band
-24. विस्मय		:	astonishment		match				roam
-25. रंगीन		:	colourful			hatch				file
-26. वर्णन		:	description			catch				version
-पक्ष			:	factor				research			policy				syndicate
+24. विस्मय		:	astonishment		match				roam				ray
+25. रंगीन		:	colourful			hatch				file				system
+26. वर्णन		:	description			catch				version				syndicate
+पक्ष			:	factor				research			policy				search
 
 कण
 नियम
@@ -143,6 +143,10 @@ file
 version
 policy
 
+stitch
+thin
+pit
+thread
 
 
 
@@ -163,28 +167,7 @@ policy
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ray
+system
 syndicate
+search
