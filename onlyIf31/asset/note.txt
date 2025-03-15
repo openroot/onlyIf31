@@ -151,7 +151,7 @@ slab
 self
 cone
 pool
-channel
+
 
 
 
@@ -170,3 +170,4 @@ program
 ray
 system
 syndicate
+channel
