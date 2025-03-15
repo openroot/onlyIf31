@@ -5,7 +5,7 @@
 4. कार्यक्षम		:	efficiency			bunch				cake				slab
 5. अद्वितीय		:	uniqueness			teach				oil					self
 6. जरूरत		:	requirement			latch				fabric				cone
-7. प्रशिक्षण		:	exercise			pouch				net
+7. प्रशिक्षण		:	exercise			pouch				net					pool
 8. प्रवाद		:	expression			punch				random
 9. क्रम		:	series				switch				new
 10. प्रकृति		:	characterisation	each				paper
@@ -18,14 +18,14 @@
 17. संधि		:	association			such				case
 18. दर्ज		:	registration		attach				base
 19. वर्ग		:	catalogue			torch				key
-20. आधारित		:	substance			pitch				total
+20. आधारित		:	substance			pitch				total				flame
 21. उत्पत्ति		:	origin				reach				frequency			anchor
 22. शिखा		:	crest				watch				interest			algorithm
 23. परिभाषा		:	definition			touch				band				program
 24. विस्मय		:	astonishment		match				roam				ray
 25. रंगीन		:	colourful			hatch				file				system
 26. वर्णन		:	description			catch				version				syndicate
-पक्ष			:	factor				research			policy				search
+पक्ष			:	factor				research			policy				channel
 
 कण
 नियम
@@ -150,6 +150,8 @@ thread
 slab
 self
 cone
+pool
+channel
 
 
 
@@ -161,13 +163,10 @@ cone
 
 
 
-
-
-
+flame
 anchor
 algorithm
 program
 ray
 system
 syndicate
-search
