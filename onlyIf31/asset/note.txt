@@ -6,7 +6,7 @@
 5. अद्वितीय		:	uniqueness			teach				oil					self
 6. जरूरत		:	requirement			latch				fabric				cone
 7. प्रशिक्षण		:	exercise			pouch				net					pool
-8. प्रवाद		:	expression			punch				random
+8. प्रवाद		:	expression			punch				random				misty
 9. क्रम		:	series				switch				new
 10. प्रकृति		:	characterisation	each				paper
 11. आश्रय		:	resort				much				fluid				
@@ -17,7 +17,7 @@
 16. अंतरिक्ष		:	atmosphere			arch				frame
 17. संधि		:	association			such				case
 18. दर्ज		:	registration		attach				base
-19. वर्ग		:	catalogue			torch				key
+19. वर्ग		:	catalogue			torch				key					story
 20. आधारित		:	substance			pitch				total				flame
 21. उत्पत्ति		:	origin				reach				frequency			anchor
 22. शिखा		:	crest				watch				interest			algorithm
@@ -151,6 +151,7 @@ slab
 self
 cone
 pool
+misty
 
 
 
@@ -161,8 +162,7 @@ pool
 
 
 
-
-
+story
 flame
 anchor
 algorithm
