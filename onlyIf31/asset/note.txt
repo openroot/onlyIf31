@@ -8,14 +8,14 @@
 7. प्रशिक्षण		:	exercise			pouch				net					pool
 8. प्रवाद		:	expression			punch				random				misty
 9. क्रम		:	series				switch				new					over
-10. प्रकृति		:	characterisation	each				paper
-11. आश्रय		:	resort				much				fluid				
+10. प्रकृति		:	characterisation	each				paper				ground
+11. आश्रय		:	resort				much				fluid				script
 12. क्रीड़ा		:	practice			crunch				volume
 13. संघ		:	union				march				static
 14. मौजूद		:	presence			bench				standard
 15. व्यक्ति		:	personify			speech				issue
-16. अंतरिक्ष		:	atmosphere			arch				frame
-17. संधि		:	association			such				case
+16. अंतरिक्ष		:	atmosphere			arch				frame				medium
+17. संधि		:	association			such				case				region
 18. दर्ज		:	registration		attach				base				fragment
 19. वर्ग		:	catalogue			torch				key					story
 20. आधारित		:	substance			pitch				total				flame
@@ -153,14 +153,14 @@ cone
 pool
 misty
 over
+ground
+script
 
 
 
 
-
-
-
-
+medium
+region
 fragment
 story
 flame
