@@ -1,5 +1,5 @@
 कण			:	partition			approach			cosmos				stitch				fine
-1. नियम		:	principle			batch				powder				thin
+1. नियम		:	principle			batch				powder				thin				list
 2. कानून		:	lawful				patch				paste				pit
 3. असंख्य		:	innumerable			fetch				soap				thread
 4. कार्यक्षम		:	efficiency			bunch				cake				slab
@@ -24,7 +24,7 @@
 23. परिभाषा		:	definition			touch				band				program
 24. विस्मय		:	astonishment		match				roam				ray
 25. रंगीन		:	colourful			hatch				file				system
-26. वर्णन		:	description			catch				version				syndicate
+26. वर्णन		:	description			catch				version				syndicate			form
 पक्ष			:	factor				research			policy				channel				course
 
 कण
@@ -173,6 +173,7 @@ syndicate
 channel
 
 fine
+list
 
 
 
@@ -197,6 +198,5 @@ fine
 
 
 
-
-
+form
 course
