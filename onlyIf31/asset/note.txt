@@ -2,8 +2,8 @@
 1. नियम		:	principle			batch				powder				thin				list
 2. कानून		:	lawful				patch				paste				pit					bank
 3. असंख्य		:	innumerable			fetch				soap				thread				wire
-4. कार्यक्षम		:	efficiency			bunch				cake				slab
-5. अद्वितीय		:	uniqueness			teach				oil					self				
+4. कार्यक्षम		:	efficiency			bunch				cake				slab				merit
+5. अद्वितीय		:	uniqueness			teach				oil					self				rank
 6. जरूरत		:	requirement			latch				fabric				cone
 7. प्रशिक्षण		:	exercise			pouch				net					pool
 8. प्रवाद		:	expression			punch				random				misty
@@ -21,7 +21,7 @@
 20. आधारित	:	substance			pitch				total				flame
 21. उत्पत्ति		:	origin				reach				frequency			anchor
 22. शिखा		:	crest				watch				interest			algorithm			surf
-23. परिभाषा	:	definition			touch				band				program
+23. परिभाषा	:	definition			touch				band				program				cost
 24. विस्मय		:	astonishment		match				roam				ray					scale
 25. रंगीन		:	colourful			hatch				file				system				through
 26. वर्णन		:	description			catch				version				syndicate			form
@@ -176,8 +176,8 @@ fine
 list
 bank
 wire
-
-
+merit
+rank
 
 
 
@@ -195,7 +195,7 @@ wire
 
 
 surf
-
+cost
 scale
 through
 form
