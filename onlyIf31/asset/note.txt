@@ -6,7 +6,7 @@
 5. अद्वितीय		:	uniqueness			teach				oil					self				rank
 6. जरूरत		:	requirement			latch				fabric				cone				break
 7. प्रशिक्षण		:	exercise			pouch				net					pool				skip
-8. प्रवाद		:	expression			punch				random				misty
+8. प्रवाद		:	expression			punch				random				misty				term
 9. क्रम		:	series				switch				new					over
 10. प्रकृति		:	characterisation	each				paper				ground
 11. आश्रय		:	resort				much				fluid				script
@@ -180,7 +180,7 @@ merit
 rank
 break
 skip
-
+term
 
 
 
