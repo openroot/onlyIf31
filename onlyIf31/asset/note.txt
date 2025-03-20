@@ -7,7 +7,7 @@
 6. जरूरत		:	requirement			latch				fabric				cone				break
 7. प्रशिक्षण		:	exercise			pouch				net					pool				skip
 8. प्रवाद		:	expression			punch				random				misty				term
-9. क्रम		:	series				switch				new					over
+9. क्रम		:	series				switch				new					over				virtue
 10. प्रकृति		:	characterisation	each				paper				ground
 11. आश्रय		:	resort				much				fluid				script
 12. क्रीड़ा		:	practice			crunch				volume				capital
@@ -16,7 +16,7 @@
 15. व्यक्ति		:	personify			speech				issue				study
 16. अंतरिक्ष		:	atmosphere			arch				frame				medium
 17. संधि		:	association			such				case				region
-18. दर्ज		:	registration		attach				base				fragment
+18. दर्ज		:	registration		attach				base				fragment			feed
 19. वर्ग		:	catalogue			torch				key					story				assemble
 20. आधारित	:	substance			pitch				total				flame				segment
 21. उत्पत्ति		:	origin				reach				frequency			anchor				area
@@ -181,7 +181,7 @@ rank
 break
 skip
 term
-
+virtue
 
 
 
