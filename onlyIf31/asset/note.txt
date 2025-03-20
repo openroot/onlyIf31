@@ -17,9 +17,9 @@
 16. अंतरिक्ष		:	atmosphere			arch				frame				medium
 17. संधि		:	association			such				case				region
 18. दर्ज		:	registration		attach				base				fragment
-19. वर्ग		:	catalogue			torch				key					story
-20. आधारित	:	substance			pitch				total				flame
-21. उत्पत्ति		:	origin				reach				frequency			anchor
+19. वर्ग		:	catalogue			torch				key					story				assemble
+20. आधारित	:	substance			pitch				total				flame				segment
+21. उत्पत्ति		:	origin				reach				frequency			anchor				area
 22. शिखा		:	crest				watch				interest			algorithm			surf
 23. परिभाषा	:	definition			touch				band				program				cost
 24. विस्मय		:	astonishment		match				roam				ray					scale
@@ -191,9 +191,9 @@ rank
 
 
 
-
-
-
+assemble
+segment
+area
 surf
 cost
 scale
