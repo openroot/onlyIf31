@@ -3,7 +3,7 @@
 2. कानून		:	lawful				patch				paste				pit					bank
 3. असंख्य		:	innumerable			fetch				soap				thread				wire
 4. कार्यक्षम		:	efficiency			bunch				cake				slab
-5. अद्वितीय		:	uniqueness			teach				oil					self				policy
+5. अद्वितीय		:	uniqueness			teach				oil					self				
 6. जरूरत		:	requirement			latch				fabric				cone
 7. प्रशिक्षण		:	exercise			pouch				net					pool
 8. प्रवाद		:	expression			punch				random				misty
@@ -177,7 +177,7 @@ list
 bank
 wire
 
-policy
+
 
 
 
