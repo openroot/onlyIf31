@@ -9,12 +9,12 @@
 8. प्रवाद		:	expression			punch				random				misty				term
 9. क्रम		:	series				switch				new					over				virtue
 10. प्रकृति		:	characterisation	each				paper				ground				world
-11. आश्रय		:	resort				much				fluid				script
-12. क्रीड़ा		:	practice			crunch				volume				capital
-13. संघ		:	union				march				static				host
-14. मौजूद		:	presence			bench				standard			diagram
-15. व्यक्ति		:	personify			speech				issue				study
-16. अंतरिक्ष		:	atmosphere			arch				frame				medium
+11. आश्रय		:	resort				much				fluid				script				product
+12. क्रीड़ा		:	practice			crunch				volume				capital				shape
+13. संघ		:	union				march				static				host				asset
+14. मौजूद		:	presence			bench				standard			diagram				source
+15. व्यक्ति		:	personify			speech				issue				study				session
+16. अंतरिक्ष		:	atmosphere			arch				frame				medium				history
 17. संधि		:	association			such				case				region				music
 18. दर्ज		:	registration		attach				base				fragment			feed
 19. वर्ग		:	catalogue			torch				key					story				assemble
@@ -183,14 +183,14 @@ skip
 term
 virtue
 world
-
-
-
-
-
-
-
+product
+shape
+asset
+source
+session
+history
 music
+feed
 assemble
 segment
 area
