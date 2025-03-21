@@ -7,7 +7,7 @@
 6. जरूरत		:	requirement			latch				fabric				cone				break
 7. प्रशिक्षण		:	exercise			pouch				net					pool				skip
 8. प्रवाद		:	expression			punch				random				misty				term
-9. क्रम		:	series				switch				new					over				virtue
+9. क्रम			:	series				switch				new					over				virtue
 10. प्रकृति		:	characterisation	each				paper				ground				world
 11. आश्रय		:	resort				much				fluid				script				product
 12. क्रीड़ा		:	practice			crunch				volume				capital				shape
@@ -17,11 +17,11 @@
 16. अंतरिक्ष		:	atmosphere			arch				frame				medium				history
 17. संधि		:	association			such				case				region				music
 18. दर्ज		:	registration		attach				base				fragment			feed
-19. वर्ग		:	catalogue			torch				key					story				assemble
-20. आधारित	:	substance			pitch				total				flame				segment
+19. वर्ग			:	catalogue			torch				key					story				assemble
+20. आधारित		:	substance			pitch				total				flame				segment
 21. उत्पत्ति		:	origin				reach				frequency			anchor				area
 22. शिखा		:	crest				watch				interest			algorithm			surf
-23. परिभाषा	:	definition			touch				band				program				cost
+23. परिभाषा		:	definition			touch				band				program				cost
 24. विस्मय		:	astonishment		match				roam				ray					scale
 25. रंगीन		:	colourful			hatch				file				system				through
 26. वर्णन		:	description			catch				version				syndicate			form
