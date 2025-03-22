@@ -7,7 +7,7 @@
 6. जरूरत		:	requirement			latch				fabric				cone				break
 7. प्रशिक्षण		:	exercise			pouch				net					pool				skip
 8. प्रवाद		:	expression			punch				random				misty				term
-9. क्रम			:	series				switch				new					over				virtue
+9. क्रम		:	series				switch				new					over				virtue
 10. प्रकृति		:	characterisation	each				paper				ground				world
 11. आश्रय		:	resort				much				fluid				script				product
 12. क्रीड़ा		:	practice			crunch				volume				capital				shape
@@ -17,7 +17,7 @@
 16. अंतरिक्ष		:	atmosphere			arch				frame				medium				history
 17. संधि		:	association			such				case				region				music
 18. दर्ज		:	registration		attach				base				fragment			feed
-19. वर्ग			:	catalogue			torch				key					story				assemble
+19. वर्ग		:	catalogue			torch				key					story				assemble
 20. आधारित		:	substance			pitch				total				flame				segment
 21. उत्पत्ति		:	origin				reach				frequency			anchor				area
 22. शिखा		:	crest				watch				interest			algorithm			surf
@@ -30,20 +30,20 @@
 
 1. संग्रह		:
 2. अभिधान		:
-3. क्षण			:
+3. क्षण		:
 4. समीक्षा		:
 5. पद्धति		:
 6. प्रगति		:
 7. कहानी		:
 8. पहेली		:
 9. गण			:
-10. पत्र			:
-11. 
+10. पत्र		:
+11. भाषा		:
 12. 
 13. 
 14. 
 15. 
-16. 
+16. छंद		:
 17. तार		:
 18. कक्ष		:
 19. अंश		:
@@ -241,12 +241,12 @@ course
 पहेली
 गण
 पत्र
+भाषा
 
 
 
 
-
-
+छंद
 तार
 कक्ष
 अंश
