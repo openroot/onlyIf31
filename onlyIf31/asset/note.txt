@@ -1,4 +1,4 @@
-कण			:	partition			approach			cosmos				stitch				fine
+परिचय. कण		:	partition			approach			cosmos				stitch				fine
 1. नियम		:	principle			batch				powder				thin				list
 2. कानून		:	lawful				patch				paste				pit					bank
 3. असंख्य		:	innumerable			fetch				soap				thread				wire
@@ -25,9 +25,9 @@
 24. विस्मय		:	astonishment		match				roam				ray					scale
 25. रंगीन		:	colourful			hatch				file				system				through
 26. वर्णन		:	description			catch				version				syndicate			form
-पक्ष			:	factor				research			policy				channel				course
+सार. पक्ष		:	factor				research			policy				channel				course
 
-
+अर्थात. शक्ति		:
 1. संग्रह		:
 2. अभिधान		:
 3. क्षण		:
@@ -54,7 +54,7 @@
 24. निशान		:
 25. युक्ति		:
 26. सामग्री		:
-
+शब्द. स्मरण		:
 
 कण
 नियम
@@ -230,7 +230,7 @@ through
 form
 course
 
-
+शक्ति
 संग्रह
 अभिधान
 क्षण
@@ -257,3 +257,4 @@ course
 निशान
 युक्ति
 सामग्री
+स्मरण
