@@ -39,10 +39,10 @@
 9. गण			:
 10. पत्र		:
 11. भाषा		:
-12. प्रान्त		:	bracket
-13. तालिका		:	versus
-14. खबर		:	current
-15. सीमा		:	fence
+12. प्रान्त		:	bracket																			share
+13. तालिका		:	versus																			feature
+14. खबर		:	current																			venture
+15. सीमा		:	fence																			aperture
 16. छंद		:
 17. तार		:
 18. कक्ष		:
