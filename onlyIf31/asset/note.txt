@@ -31,7 +31,7 @@
 1. संग्रह		:	prefix																			predecessor
 2. अभिधान		:	statement																		creature
 3. क्षण		:	context																			under
-4. समीक्षा		:	aspect
+4. समीक्षा		:	aspect																			proper
 5. पद्धति		:
 6. प्रगति		:
 7. कहानी		:
@@ -50,7 +50,7 @@
 20. पंक्ति		:
 21. प्रमाण		:
 22. श्रेणी		:
-23. अनुपात		:	ratio
+23. अनुपात		:	ratio																			power
 24. निशान		:	mark																			cover
 25. युक्ति		:	logic																			structure
 26. सामग्री		:	suffix																			successor
