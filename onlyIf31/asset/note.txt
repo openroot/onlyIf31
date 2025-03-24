@@ -28,8 +28,8 @@
 सार. पक्ष		:	factor				research			policy				channel				course
 
 अर्थात. शक्ति		:
-1. संग्रह		:	prefix
-2. अभिधान		:	statement
+1. संग्रह		:	prefix																			predecessor
+2. अभिधान		:	statement																		creature
 3. क्षण		:	context
 4. समीक्षा		:	aspect
 5. पद्धति		:
@@ -52,8 +52,8 @@
 22. श्रेणी		:
 23. अनुपात		:	ratio
 24. निशान		:	mark
-25. युक्ति		:	logic
-26. सामग्री		:	suffix
+25. युक्ति		:	logic																			structure
+26. सामग्री		:	suffix																			successor
 शब्द. स्मरण		:
 
 कण
@@ -286,3 +286,31 @@ ratio
 mark
 logic
 suffix
+
+
+predecessor
+creature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+structure
+successor
