@@ -30,7 +30,7 @@
 अर्थात. शक्ति		:
 1. संग्रह		:	prefix																			predecessor
 2. अभिधान		:	statement																		creature
-3. क्षण		:	context
+3. क्षण		:	context																			under
 4. समीक्षा		:	aspect
 5. पद्धति		:
 6. प्रगति		:
@@ -51,7 +51,7 @@
 21. प्रमाण		:
 22. श्रेणी		:
 23. अनुपात		:	ratio
-24. निशान		:	mark
+24. निशान		:	mark																			cover
 25. युक्ति		:	logic																			structure
 26. सामग्री		:	suffix																			successor
 शब्द. स्मरण		:
