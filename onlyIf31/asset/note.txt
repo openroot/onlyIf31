@@ -32,24 +32,24 @@
 2. अभिधान		:	statement																		creature
 3. क्षण		:	context																			under
 4. समीक्षा		:	aspect																			proper
-5. पद्धति		:																					aware
-6. प्रगति		:																					clear
-7. कहानी		:																					enter
-8. पहेली		:																					order
-9. गण			:																					number
-10. पत्र		:																					centre
-11. भाषा		:																					declare
+5. पद्धति		:	process																			aware
+6. प्रगति		:	advance																			clear
+7. कहानी		:	article																			enter
+8. पहेली		:	secret																			order
+9. गण			:	serial									machine									number
+10. पत्र		:	content																			centre
+11. भाषा		:	language																		declare
 12. प्रान्त		:	bracket																			share
 13. तालिका		:	versus																			feature
 14. खबर		:	current																			venture
 15. सीमा		:	fence																			aperture
-16. छंद		:																					before
-17. तार		:																					treasure
-18. कक्ष		:																					corner
-19. अंश		:																					after
-20. पंक्ति		:																					hover
-21. प्रमाण		:																					star
-22. श्रेणी		:																					measure
+16. छंद		:	element																			before
+17. तार		:	matter																			treasure
+18. कक्ष		:	space									engine									corner
+19. अंश		:	detail																			after
+20. पंक्ति		:	line																			hover
+21. प्रमाण		:	proof																			star
+22. श्रेणी		:	sequence																		measure
 23. अनुपात		:	ratio																			power
 24. निशान		:	mark																			cover
 25. युक्ति		:	logic																			structure
@@ -264,24 +264,24 @@ prefix
 statement
 context
 aspect
-
-
-
-
-
-
-
+process
+advance
+article
+secret
+serial
+content
+language
 bracket
 versus
 current
 fence
-
-
-
-
-
-
-
+element
+matter
+space
+detail
+line
+proof
+sequence
 ratio
 mark
 logic
