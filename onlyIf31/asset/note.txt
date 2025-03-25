@@ -30,8 +30,8 @@
 अर्थात. शक्ति		:
 1. संग्रह		:	prefix				club				house				coupon				predecessor
 2. अभिधान		:	statement			party				side				ticket				creature
-3. क्षण		:	context				board				culture									under
-4. समीक्षा		:	aspect				book				magazine								proper
+3. क्षण		:	context				board				culture				print				under
+4. समीक्षा		:	aspect				book				magazine			account				proper
 5. पद्धति		:	process				place				library									aware
 6. प्रगति		:	advance				cross				difference								clear
 7. कहानी		:	article				picture				essay									enter
@@ -40,18 +40,18 @@
 10. पत्र		:	content				clock				dynamic									centre
 11. भाषा		:	language			plant				cell									declare
 12. प्रान्त		:	bracket				connect				real									share
-13. तालिका		:	versus				write				port									feature
-14. खबर		:	current				read				parallel								venture
-15. सीमा		:	fence				flat				cap										aperture
-16. छंद		:	element				league				bucket									before
-17. तार		:	matter				routine				truth									treasure
-18. कक्ष		:	space				loop				engine									corner
-19. अंश		:	detail				rail				contain									after
-20. पंक्ति		:	line				paint				fold									hover
-21. प्रमाण		:	proof				calendar			pseudo									star
-22. श्रेणी		:	sequence			score				tool									measure
-23. अनुपात		:	ratio				bean				tube									power
-24. निशान		:	mark				grammar				clip									cover
+13. तालिका		:	versus				write				port				chart				feature
+14. खबर		:	current				read				parallel			count				venture
+15. सीमा		:	fence				flat				cap					plain				aperture
+16. छंद		:	element				league				bucket				edge				before
+17. तार		:	matter				routine				truth				unit				treasure
+18. कक्ष		:	space				loop				engine				domain				corner
+19. अंश		:	detail				rail				contain				offer				after
+20. पंक्ति		:	line				paint				fold				supply				hover
+21. प्रमाण		:	proof				calendar			pseudo				grant				star
+22. श्रेणी		:	sequence			score				tool				period				measure
+23. अनुपात		:	ratio				bean				tube				agent				power
+24. निशान		:	mark				grammar				clip				matrix				cover
 25. युक्ति		:	logic				diary				formula				store				structure
 26. सामग्री		:	suffix				mobile				step				basic				successor
 शब्द. स्मरण		:
@@ -349,7 +349,21 @@ step
 
 coupon
 ticket
+print
+account
 
+chart
+count
+plain
+edge
+unit
+domain
+offer
+supply
+grant
+period
+agent
+matrix
 store
 basic
 
