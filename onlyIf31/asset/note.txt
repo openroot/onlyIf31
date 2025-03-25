@@ -27,7 +27,7 @@
 26. वर्णन		:	description			catch				version				syndicate			form
 सार. पक्ष		:	factor				research			policy				channel				course
 
-अर्थात. शक्ति		:						graph				nature				bridge				
+अर्थात. शक्ति		:	prime				graph				nature				bridge				main
 1. संग्रह		:	prefix				club				house				coupon				predecessor
 2. अभिधान		:	statement			party				side				ticket				creature
 3. क्षण		:	context				board				culture				print				under
@@ -54,7 +54,7 @@
 24. निशान		:	mark				grammar				clip				matrix				cover
 25. युक्ति		:	logic				diary				formula				store				structure
 26. सामग्री		:	suffix				mobile				step				basic				successor
-शब्द. स्मरण		:						deliver				speed				signature			
+शब्द. स्मरण		:	single				deliver				speed				signature			fund
 
 कण
 नियम
@@ -259,7 +259,7 @@ course
 सामग्री
 स्मरण
 
-
+prime
 prefix
 statement
 context
@@ -286,7 +286,7 @@ ratio
 mark
 logic
 suffix
-
+single
 
 graph
 club
@@ -317,7 +317,7 @@ diary
 mobile
 deliver
 
-
+nature
 house
 side
 culture
@@ -344,7 +344,7 @@ tube
 clip
 formula
 step
-
+speed
 
 bridge
 coupon
@@ -375,7 +375,7 @@ store
 basic
 signature
 
-
+main
 predecessor
 creature
 under
@@ -402,3 +402,4 @@ power
 cover
 structure
 successor
+fund
