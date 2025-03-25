@@ -32,14 +32,14 @@
 2. अभिधान		:	statement			party				side				ticket				creature
 3. क्षण		:	context				board				culture				print				under
 4. समीक्षा		:	aspect				book				magazine			account				proper
-5. पद्धति		:	process				place				library									aware
-6. प्रगति		:	advance				cross				difference								clear
-7. कहानी		:	article				picture				essay									enter
-8. पहेली		:	secret				release				card									order
-9. गण			:	serial				branch				machine									number
-10. पत्र		:	content				clock				dynamic									centre
-11. भाषा		:	language			plant				cell									declare
-12. प्रान्त		:	bracket				connect				real									share
+5. पद्धति		:	process				place				library				vocabulary			aware
+6. प्रगति		:	advance				cross				difference			shift				clear
+7. कहानी		:	article				picture				essay				turn				enter
+8. पहेली		:	secret				release				card				practical			order
+9. गण			:	serial				branch				machine				metric				number
+10. पत्र		:	content				clock				dynamic				symbol				centre
+11. भाषा		:	language			plant				cell				surface				declare
+12. प्रान्त		:	bracket				connect				real				genre				share
 13. तालिका		:	versus				write				port				chart				feature
 14. खबर		:	current				read				parallel			count				venture
 15. सीमा		:	fence				flat				cap					plain				aperture
@@ -351,14 +351,14 @@ coupon
 ticket
 print
 account
-
-
-
-
-
-
-
-
+vocabulary
+shift
+turn
+practical
+metric
+symbol
+surface
+genre
 chart
 count
 plain
