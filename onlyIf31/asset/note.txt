@@ -30,9 +30,9 @@
 अर्थात. शक्ति		:
 1. संग्रह		:	prefix				club				house				coupon				predecessor
 2. अभिधान		:	statement			party				side				ticket				creature
-3. क्षण		:	context																			under
-4. समीक्षा		:	aspect																			proper
-5. पद्धति		:	process																			aware
+3. क्षण		:	context									culture									under
+4. समीक्षा		:	aspect									magazine								proper
+5. पद्धति		:	process									library									aware
 6. प्रगति		:	advance																			clear
 7. कहानी		:	article																			enter
 8. पहेली		:	secret																			order
@@ -49,9 +49,9 @@
 19. अंश		:	detail																			after
 20. पंक्ति		:	line																			hover
 21. प्रमाण		:	proof																			star
-22. श्रेणी		:	sequence																		measure
-23. अनुपात		:	ratio																			power
-24. निशान		:	mark																			cover
+22. श्रेणी		:	sequence								tool									measure
+23. अनुपात		:	ratio									tube									power
+24. निशान		:	mark									clip									cover
 25. युक्ति		:	logic				diary				formula				store				structure
 26. सामग्री		:	suffix				mobile				step				basic				successor
 शब्द. स्मरण		:
@@ -299,11 +299,17 @@ mobile
 
 house
 side
+culture
+magazine
+library
 
 machine
 
 engine
 
+tool
+tube
+clip
 formula
 step
 
