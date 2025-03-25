@@ -28,8 +28,8 @@
 सार. पक्ष		:	factor				research			policy				channel				course
 
 अर्थात. शक्ति		:
-1. संग्रह		:	prefix																			predecessor
-2. अभिधान		:	statement																		creature
+1. संग्रह		:	prefix				club				house				coupon				predecessor
+2. अभिधान		:	statement			party				side				ticket				creature
 3. क्षण		:	context																			under
 4. समीक्षा		:	aspect																			proper
 5. पद्धति		:	process																			aware
@@ -52,8 +52,8 @@
 22. श्रेणी		:	sequence																		measure
 23. अनुपात		:	ratio																			power
 24. निशान		:	mark																			cover
-25. युक्ति		:	logic																			structure
-26. सामग्री		:	suffix																			successor
+25. युक्ति		:	logic				diary				formula				store				structure
+26. सामग्री		:	suffix				mobile				step				basic				successor
 शब्द. स्मरण		:
 
 कण
@@ -286,6 +286,34 @@ ratio
 mark
 logic
 suffix
+
+
+
+club
+party
+
+diary
+mobile
+
+
+
+house
+side
+
+machine
+
+engine
+
+formula
+step
+
+
+
+coupon
+ticket
+
+store
+basic
 
 
 
