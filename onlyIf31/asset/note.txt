@@ -36,16 +36,16 @@
 6. प्रगति		:	advance				cross				difference								clear
 7. कहानी		:	article				picture				essay									enter
 8. पहेली		:	secret				release				card									order
-9. गण			:	serial									machine									number
-10. पत्र		:	content									dynamic									centre
-11. भाषा		:	language								cell									declare
-12. प्रान्त		:	bracket									real									share
-13. तालिका		:	versus									port									feature
-14. खबर		:	current									parallel								venture
-15. सीमा		:	fence									cap										aperture
-16. छंद		:	element									bucket									before
-17. तार		:	matter									truth									treasure
-18. कक्ष		:	space									engine									corner
+9. गण			:	serial				branch				machine									number
+10. पत्र		:	content				clock				dynamic									centre
+11. भाषा		:	language			plant				cell									declare
+12. प्रान्त		:	bracket				connect				real									share
+13. तालिका		:	versus				write				port									feature
+14. खबर		:	current				read				parallel								venture
+15. सीमा		:	fence				flat				cap										aperture
+16. छंद		:	element				league				bucket									before
+17. तार		:	matter				routine				truth									treasure
+18. कक्ष		:	space				loop				engine									corner
 19. अंश		:	detail				rail				contain									after
 20. पंक्ति		:	line				paint				fold									hover
 21. प्रमाण		:	proof				calendar			pseudo									star
@@ -297,7 +297,16 @@ place
 cross
 picture
 release
-
+branch
+clock
+plant
+connect
+write
+read
+flat
+league
+routine
+loop
 rail
 paint
 calendar
