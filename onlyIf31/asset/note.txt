@@ -27,7 +27,7 @@
 26. वर्णन		:	description			catch				version				syndicate			form
 सार. पक्ष		:	factor				research			policy				channel				course
 
-अर्थात. शक्ति		:
+अर्थात. शक्ति		:						graph				nature				bridge				
 1. संग्रह		:	prefix				club				house				coupon				predecessor
 2. अभिधान		:	statement			party				side				ticket				creature
 3. क्षण		:	context				board				culture				print				under
@@ -54,7 +54,7 @@
 24. निशान		:	mark				grammar				clip				matrix				cover
 25. युक्ति		:	logic				diary				formula				store				structure
 26. सामग्री		:	suffix				mobile				step				basic				successor
-शब्द. स्मरण		:
+शब्द. स्मरण		:						deliver				speed				signature			
 
 कण
 नियम
@@ -288,7 +288,7 @@ logic
 suffix
 
 
-
+graph
 club
 party
 board
@@ -315,7 +315,7 @@ bean
 grammar
 diary
 mobile
-
+deliver
 
 
 house
@@ -346,7 +346,7 @@ formula
 step
 
 
-
+bridge
 coupon
 ticket
 print
@@ -373,7 +373,7 @@ agent
 matrix
 store
 basic
-
+signature
 
 
 predecessor
