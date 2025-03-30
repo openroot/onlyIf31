@@ -1,9 +1,9 @@
-परिचय. कण		:	partition			approach			cosmos				stitch				fine
+परिचय. कण	:	partition			approach			cosmos				stitch				fine
 1. नियम		:	principle			batch				powder				thin				list
 2. कानून		:	lawful				patch				paste				pit					bank
 3. असंख्य		:	innumerable			fetch				soap				thread				wire
 4. कार्यक्षम		:	efficiency			bunch				cake				slab				merit
-5. अद्वितीय		:	uniqueness			teach				oil					self				rank
+5. अद्वितीय	:	uniqueness			teach				oil					self				rank
 6. जरूरत		:	requirement			latch				fabric				cone				break
 7. प्रशिक्षण		:	exercise			pouch				net					pool				skip
 8. प्रवाद		:	expression			punch				random				misty				term
@@ -14,20 +14,20 @@
 13. संघ		:	union				march				static				host				asset
 14. मौजूद		:	presence			bench				standard			diagram				source
 15. व्यक्ति		:	personify			speech				issue				study				session
-16. अंतरिक्ष		:	atmosphere			arch				frame				medium				history
+16. अंतरिक्ष	:	atmosphere			arch				frame				medium				history
 17. संधि		:	association			such				case				region				music
 18. दर्ज		:	registration		attach				base				fragment			feed
 19. वर्ग		:	catalogue			torch				key					story				assemble
-20. आधारित		:	substance			pitch				total				flame				segment
+20. आधारित	:	substance			pitch				total				flame				segment
 21. उत्पत्ति		:	origin				reach				frequency			anchor				area
 22. शिखा		:	crest				watch				interest			algorithm			surf
-23. परिभाषा		:	definition			touch				band				program				cost
+23. परिभाषा	:	definition			touch				band				program				cost
 24. विस्मय		:	astonishment		match				roam				ray					scale
 25. रंगीन		:	colourful			hatch				file				system				through
 26. वर्णन		:	description			catch				version				syndicate			form
 सार. पक्ष		:	factor				research			policy				channel				course
 
-अर्थात. शक्ति		:	prime				graph				nature				bridge				main
+अर्थात. शक्ति	:	prime				graph				nature				bridge				main
 1. संग्रह		:	prefix				club				house				coupon				predecessor
 2. अभिधान		:	statement			party				side				ticket				creature
 3. क्षण		:	context				board				culture				print				under
@@ -36,11 +36,11 @@
 6. प्रगति		:	advance				cross				difference			shift				clear
 7. कहानी		:	article				picture				essay				turn				enter
 8. पहेली		:	secret				release				card				practical			order
-9. गण			:	serial				branch				machine				metric				number
+9. गण		:	serial				branch				machine				metric				number
 10. पत्र		:	content				clock				dynamic				symbol				centre
 11. भाषा		:	language			plant				cell				surface				declare
 12. प्रान्त		:	bracket				connect				real				genre				share
-13. तालिका		:	versus				write				port				chart				feature
+13. तालिका	:	versus				write				port				chart				feature
 14. खबर		:	current				read				parallel			count				venture
 15. सीमा		:	fence				flat				cap					plain				aperture
 16. छंद		:	element				league				bucket				edge				before
@@ -50,356 +50,8 @@
 20. पंक्ति		:	line				paint				fold				supply				hover
 21. प्रमाण		:	proof				calendar			pseudo				grant				star
 22. श्रेणी		:	sequence			score				tool				period				measure
-23. अनुपात		:	ratio				bean				tube				agent				power
+23. अनुपात	:	ratio				bean				tube				agent				power
 24. निशान		:	mark				grammar				clip				matrix				cover
 25. युक्ति		:	logic				diary				formula				store				structure
 26. सामग्री		:	suffix				mobile				step				basic				successor
-शब्द. स्मरण		:	single				deliver				speed				signature			fund
-
-कण
-नियम
-कानून
-असंख्य
-कार्यक्षम
-अद्वितीय
-जरूरत
-प्रशिक्षण
-प्रवाद
-क्रम
-प्रकृति
-आश्रय
-क्रीड़ा
-संघ
-मौजूद
-व्यक्ति
-अंतरिक्ष
-संधि
-दर्ज
-वर्ग
-आधारित
-उत्पत्ति
-शिखा
-परिभाषा
-विस्मय
-रंगीन
-वर्णन
-पक्ष
-
-partition
-principle
-lawful
-innumerable
-efficiency
-uniqueness
-requirement
-exercise
-expression
-series
-characterisation
-resort
-practice
-union
-presence
-personify
-atmosphere
-association
-registration
-catalogue
-substance
-origin
-crest
-definition
-astonishment
-colourful
-description
-factor
-
-approach
-batch
-patch
-fetch
-bunch
-teach
-latch
-pouch
-punch
-switch
-each
-much
-crunch
-march
-bench
-speech
-arch
-such
-attach
-torch
-pitch
-reach
-watch
-touch
-match
-hatch
-catch
-research
-
-cosmos
-powder
-paste
-soap
-cake
-oil
-fabric
-net
-random
-new
-paper
-fluid
-volume
-static
-standard
-issue
-frame
-case
-base
-key
-total
-frequency
-interest
-band
-roam
-file
-version
-policy
-
-stitch
-thin
-pit
-thread
-slab
-self
-cone
-pool
-misty
-over
-ground
-script
-capital
-host
-diagram
-study
-medium
-region
-fragment
-story
-flame
-anchor
-algorithm
-program
-ray
-system
-syndicate
-channel
-
-fine
-list
-bank
-wire
-merit
-rank
-break
-skip
-term
-virtue
-world
-product
-shape
-asset
-source
-session
-history
-music
-feed
-assemble
-segment
-area
-surf
-cost
-scale
-through
-form
-course
-
-शक्ति
-संग्रह
-अभिधान
-क्षण
-समीक्षा
-पद्धति
-प्रगति
-कहानी
-पहेली
-गण
-पत्र
-भाषा
-प्रान्त
-तालिका
-खबर
-सीमा
-छंद
-तार
-कक्ष
-अंश
-पंक्ति
-प्रमाण
-श्रेणी
-अनुपात
-निशान
-युक्ति
-सामग्री
-स्मरण
-
-prime
-prefix
-statement
-context
-aspect
-process
-advance
-article
-secret
-serial
-content
-language
-bracket
-versus
-current
-fence
-element
-matter
-space
-detail
-line
-proof
-sequence
-ratio
-mark
-logic
-suffix
-single
-
-graph
-club
-party
-board
-book
-place
-cross
-picture
-release
-branch
-clock
-plant
-connect
-write
-read
-flat
-league
-routine
-loop
-rail
-paint
-calendar
-score
-bean
-grammar
-diary
-mobile
-deliver
-
-nature
-house
-side
-culture
-magazine
-library
-difference
-essay
-card
-machine
-dynamic
-cell
-real
-port
-parallel
-cap
-bucket
-truth
-engine
-contain
-fold
-pseudo
-tool
-tube
-clip
-formula
-step
-speed
-
-bridge
-coupon
-ticket
-print
-account
-vocabulary
-shift
-turn
-practical
-metric
-symbol
-surface
-genre
-chart
-count
-plain
-edge
-unit
-domain
-offer
-supply
-grant
-period
-agent
-matrix
-store
-basic
-signature
-
-main
-predecessor
-creature
-under
-proper
-aware
-clear
-enter
-order
-number
-centre
-declare
-share
-feature
-venture
-aperture
-before
-treasure
-corner
-after
-hover
-star
-measure
-power
-cover
-structure
-successor
-fund
+शब्द. स्मरण	:	single				deliver				speed				signature			fund
