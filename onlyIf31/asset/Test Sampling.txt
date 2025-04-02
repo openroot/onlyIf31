@@ -3,6 +3,9 @@
 -----------------
 
 Order	Identity															Standard	Rate	Total	Example				Price	Sum
+
+#		200 {2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##					
+
 a		195{3, 5, 13, 15, 39, 65}:#Work##									
 1		58{2, 29}:#Palm##													Tea Cup						Electric UPS		2699	
 2		367{2, 4, 8, 47, 94, 188}:#Claim##									Sleeping Pillow				Display Unit		3265	
@@ -32,7 +35,7 @@ a		195{3, 5, 13, 15, 39, 65}:#Work##
 26		291{3, 97}:#Piece##													
 z		462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##	
 
-#		191{}:#Hype##														
+#		469{7, 67}:#Tether##												
 
 --------
 - NOTE -
@@ -40,9 +43,15 @@ z		462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##
 
 ~#
 
-(#Ego is wrong but already imagined @A @to @Z!
+(Whether it is a map of a country or a nation, it is made in just a day.
 
-#khyepaaJokerUsa64)191{}:#Hype##
+Because wherever you are on this earth, from its beginning to its end, it takes 24 hours.)469{7, 67}:#Tether##
+
+|wc-35| [18+17]
+
+(Ego is wrong but already imagined @A @to @Z!
+
+constantHyperDisco73)200{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##
 
 |wc-10| [9+1]
 
