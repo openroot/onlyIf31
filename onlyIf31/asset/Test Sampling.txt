@@ -2,14 +2,37 @@
 - TEST SAMPLING -
 -----------------
 
-1.	58:Palm				Electric UPS		2699
-2.	367:Claim			Display Unit		3265
-3.	323:Book			USB Hub				184
-4.	355:Capital			USB Light			155
-5.	162:Watch			Mosquito Zapper		362
-6.	267:Task			Thermal Paste		135
-7.	497:Entertainment	TV Mount			207		= 7007
-8.	575:Board			Electronic Slate	247
+Order	Identity															Standard	Rate	Total	Example				Price	Sum
+a		195{3, 5, 13, 15, 39, 65}:#Work##									
+1		58{2, 29}:#Palm##													Tea Cup						Electric UPS		2699	
+2		367{2, 4, 8, 47, 94, 188}:#Claim##									Sleeping Pillow				Display Unit		3265	
+3		323{17, 19}:#Book##													Electric Extension			USB Hub				184	
+4		355{5, 71}:#Capital##												Remote Lighting				USB Light			155	
+5		162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##							Insect Protector			Mosquito Zapper		362	
+6		267{3, 89}:#Task##													Body Perfume				Thermal Paste		135	
+7		497{7, 71}:#Entertainment##											Table Fan					TV Mount			207		= 7007
+8		575{5, 23, 25, 115}:#Board##										Musical Device				Electronic Slate	247	
+9		322{2, 7, 14, 23, 46, 161}:#Project##								Leather Belt					
+10		234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##					
+11		301{7, 43}:#Win##													
+12		168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##		
+13		306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
+14		374{2, 11, 17, 22, 34, 187}:#Clear##								
+15		234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##					
+16		143{11, 13}:#Border##												
+17		346{2, 173}:#Concept##												
+18		392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##						
+19		328{2, 4, 8, 41, 82, 164}:#Flag##									
+20		380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##					
+21		373{}:#Meet##														
+22		398{2, 199}:#Pack##													
+23		292{2, 4, 73, 146}:#Sharp##											
+24		571{}:#Soccer##														
+25		170{2, 5, 10, 17, 34, 85}:#Up##										
+26		291{3, 97}:#Piece##													
+z		462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##	
+
+#		191{}:#Hype##														
 
 --------
 - NOTE -
