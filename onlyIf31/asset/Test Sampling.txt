@@ -54,7 +54,7 @@ constantHyperDisco73)200{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##
 |wc-10| [9+1]
 
 ---
-~10
+~9+1
 
 (Unless and until I were fully aware of I'm prolonging this at a digital computer, it would have been completely different technology.)462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##
 
