@@ -64,29 +64,29 @@ Order	Identity	Standard	Value	Amount	Unit	Example		Order	Identity	Rate	Total	Pri
 About	Work	Web Site	Rollout			Laser Panel		200{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##	195{3, 5, 13, 15, 39, 65}:#Work##			299	
 1	Palm	Tea Cup	Amenity			Electric UPS		1	58{2, 29}:#Palm##			2699	
 2	Claim	Sleeping Pillow	Commodity			Display Unit		2	367{2, 4, 8, 47, 94, 188}:#Claim##			3265	
-3	Book	Electric Extension				USB Hub		3	323{17, 19}:#Book##			184	
-4	Capital	Remote Lighting				USB Light		4	355{5, 71}:#Capital##			155	
-5	Watch	Insect Protector				Mosquito Zapper		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362	
-6	Task	Body Perfume				Thermal Paste		6	267{3, 89}:#Task##			135	
-7	Entertainment	Table Fan				TV Mount		7	497{7, 71}:#Entertainment##			207	7007
-8	Board	Musical Device				Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247	
-9	Project	Leather Belt						9	322{2, 7, 14, 23, 46, 161}:#Project##				
-10	Mode	Hand Dictionary						10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
-11	Win	Mass Carrier						11	301{7, 43}:#Win##				
-12	Metal	First Aid						12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##				
-13	Compile	Rechargeable Unit						13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
-14	Clear	Net Coverage						14	374{2, 11, 17, 22, 34, 187}:#Clear##				
-15	Mode	Cash Card						15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
-16	Border	Superficial Computer						16	143{11, 13}:#Border##				
-17	Concept	Bank Module						17	346{2, 173}:#Concept##				
-18	Zip	Utility Gear						18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##				
-19	Flag	Note Book						19	328{2, 4, 8, 41, 82, 164}:#Flag##				
-20	Jack	Food Tier						20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##				
-21	Meet	Series Lock						21	373{}:#Meet##				
-22	Pack	Toy Program						22	398{2, 199}:#Pack##				
-23	Sharp	Functional Profile						23	292{2, 4, 73, 146}:#Sharp##				
-24	Soccer	Adaptive Socket						24	571{}:#Soccer##				
-25	Up	Time-zone Multitude						25	170{2, 5, 10, 17, 34, 85}:#Up##				
+3	Book	Electric Extension	Telemetric			USB Hub		3	323{17, 19}:#Book##			184	
+4	Capital	Remote Lighting	Sector			USB Light		4	355{5, 71}:#Capital##			155	
+5	Watch	Insect Protector	Property			Mosquito Zapper		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362	
+6	Task	Body Perfume	Environment			Thermal Paste		6	267{3, 89}:#Task##			135	
+7	Entertainment	Table Fan	Retail			TV Mount		7	497{7, 71}:#Entertainment##			207	7007
+8	Board	Musical Device	Insurance			Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247	
+9	Project	Leather Belt	Attribute					9	322{2, 7, 14, 23, 46, 161}:#Project##				
+10	Mode	Hand Dictionary	Crop					10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+11	Win	Mass Carrier	Fuel					11	301{7, 43}:#Win##				
+12	Metal	First Aid	Security					12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##				
+13	Compile	Rechargeable Unit	Mutual					13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
+14	Clear	Net Coverage	Park					14	374{2, 11, 17, 22, 34, 187}:#Clear##				
+15	Mode	Cash Card	Factory					15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+16	Border	Superficial Computer	Charity					16	143{11, 13}:#Border##				
+17	Concept	Bank Module	Hygiene					17	346{2, 173}:#Concept##				
+18	Zip	Utility Gear	Dimension					18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##				
+19	Flag	Note Book	Gateway					19	328{2, 4, 8, 41, 82, 164}:#Flag##				
+20	Jack	Food Tier	Forum					20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##				
+21	Meet	Series Lock	Agency					21	373{}:#Meet##				
+22	Pack	Toy Program	Position					22	398{2, 199}:#Pack##				
+23	Sharp	Functional Profile	Company					23	292{2, 4, 73, 146}:#Sharp##				
+24	Soccer	Adaptive Socket	Brand					24	571{}:#Soccer##				
+25	Up	Time-zone Multitude	Market					25	170{2, 5, 10, 17, 34, 85}:#Up##				
 26	Piece	Painting Studio	Estate					26	291{3, 97}:#Piece##				
 Tether	Mirror	Filter Room	Vehicle			Light Room		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##				
 													
@@ -135,7 +135,7 @@ Order												Identity															Standard				Rate	Total	Example				Price	
 4													355{5, 71}:#Capital##												Remote Lighting							USB Light			155	
 5													162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##							Insect Protector						Mosquito Zapper		362	
 6													267{3, 89}:#Task##													Body Perfume							Thermal Paste		135	
-7													497{7, 71}:#Entertainment##											Table Fan								TV Mount			207		= 7007
+7													497{7, 71}:#Entertainment##											Table Fan								TV Mount			207		7007
 8													575{5, 23, 25, 115}:#Board##										Musical Device							Electronic Slate	247	
 9													322{2, 7, 14, 23, 46, 161}:#Project##								Leather Belt				
 10													234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##					Hand Dictionary
