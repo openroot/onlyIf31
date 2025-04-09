@@ -1,3 +1,127 @@
+Order	Identity	Standard	Value	Amount	Unit	Example
+परिचय	कण	partition	approach	cosmos	stitch	fine
+1	नियम	principle	batch	powder	thin	list
+2	कानून	lawful	patch	paste	pit	bank
+3	असंख्य	innumerable	fetch	soap	thread	wire
+4	कार्यक्षम	efficiency	bunch	cake	slab	merit
+5	अद्वितीय	uniqueness	teach	oil	self	rank
+6	जरूरत	requirement	latch	fabric	cone	break
+7	प्रशिक्षण	exercise	pouch	net	pool	skip
+8	प्रवाद	expression	punch	random	misty	term
+9	क्रम	series	switch	new	over	virtue
+10	प्रकृति	characterisation	each	paper	ground	world
+11	आश्रय	resort	much	fluid	script	product
+12	क्रीड़ा	practice	crunch	volume	capital	shape
+13	संघ	union	march	static	host	asset
+14	मौजूद	presence	bench	standard	diagram	source
+15	व्यक्ति	personify	speech	issue	study	session
+16	अंतरिक्ष	atmosphere	arch	frame	medium	history
+17	संधि	association	such	case	region	music
+18	दर्ज	registration	attach	base	fragment	feed
+19	वर्ग	catalogue	torch	key	story	assemble
+20	आधारित	substance	pitch	total	flame	segment
+21	उत्पत्ति	origin	reach	frequency	anchor	area
+22	शिखा	crest	watch	interest	algorithm	surf
+23	परिभाषा	definition	touch	band	program	cost
+24	विस्मय	astonishment	match	roam	ray	scale
+25	रंगीन	colourful	hatch	file	system	through
+26	वर्णन	description	catch	version	syndicate	form
+सार	पक्ष	factor	research	policy	channel	course
+						
+Order	Identity	Standard	Value	Amount	Unit	Example
+अर्थात	शक्ति	prime	graph	nature	bridge	main
+1	संग्रह	prefix	club	house	coupon	predecessor
+2	अभिधान	statement	party	side	ticket	creature
+3	क्षण	context	board	culture	print	under
+4	समीक्षा	aspect	book	magazine	account	proper
+5	पद्धति	process	place	library	vocabulary	aware
+6	प्रगति	advance	cross	difference	shift	clear
+7	कहानी	article	picture	essay	turn	enter
+8	पहेली	secret	release	card	practical	order
+9	गण	serial	branch	machine	metric	number
+10	पत्र	content	clock	dynamic	symbol	centre
+11	भाषा	language	plant	cell	surface	declare
+12	प्रान्त	bracket	connect	real	genre	share
+13	तालिका	versus	write	port	chart	feature
+14	खबर	current	read	parallel	count	venture
+15	सीमा	fence	flat	cap	plain	aperture
+16	छंद	element	league	bucket	edge	before
+17	तार	matter	routine	truth	unit	treasure
+18	कक्ष	space	loop	engine	domain	corner
+19	अंश	detail	rail	contain	offer	after
+20	पंक्ति	line	paint	fold	supply	hover
+21	प्रमाण	proof	calendar	pseudo	grant	star
+22	श्रेणी	sequence	score	tool	period	measure
+23	अनुपात	ratio	bean	tube	agent	power
+24	निशान	mark	grammar	clip	matrix	cover
+25	युक्ति	logic	diary	formula	store	structure
+26	सामग्री	suffix	mobile	step	basic	successor
+शब्द	स्मरण	single	deliver	speed	signature	fund
+
+
+										Standard		Example	
+Order	Identity	Standard	Value	Amount	Unit	Example		Order	Identity	Rate	Total	Price	Sum
+About	Work	Web Site	Rollout			Laser Panel		200{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##	195{3, 5, 13, 15, 39, 65}:#Work##			299	
+1	Palm	Tea Cup	Amenity			Electric UPS		1	58{2, 29}:#Palm##			2699	
+2	Claim	Sleeping Pillow	Commodity			Display Unit		2	367{2, 4, 8, 47, 94, 188}:#Claim##			3265	
+3	Book	Electric Extension				USB Hub		3	323{17, 19}:#Book##			184	
+4	Capital	Remote Lighting				USB Light		4	355{5, 71}:#Capital##			155	
+5	Watch	Insect Protector				Mosquito Zapper		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362	
+6	Task	Body Perfume				Thermal Paste		6	267{3, 89}:#Task##			135	
+7	Entertainment	Table Fan				TV Mount		7	497{7, 71}:#Entertainment##			207	7007
+8	Board	Musical Device				Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247	
+9	Project	Leather Belt						9	322{2, 7, 14, 23, 46, 161}:#Project##				
+10	Mode	Hand Dictionary						10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+11	Win	Mass Carrier						11	301{7, 43}:#Win##				
+12	Metal	First Aid						12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##				
+13	Compile	Rechargeable Unit						13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
+14	Clear	Net Coverage						14	374{2, 11, 17, 22, 34, 187}:#Clear##				
+15	Mode	Cash Card						15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+16	Border	Superficial Computer						16	143{11, 13}:#Border##				
+17	Concept	Bank Module						17	346{2, 173}:#Concept##				
+18	Zip	Utility Gear						18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##				
+19	Flag	Note Book						19	328{2, 4, 8, 41, 82, 164}:#Flag##				
+20	Jack	Food Tier						20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##				
+21	Meet	Series Lock						21	373{}:#Meet##				
+22	Pack	Toy Program						22	398{2, 199}:#Pack##				
+23	Sharp	Functional Profile						23	292{2, 4, 73, 146}:#Sharp##				
+24	Soccer	Adaptive Socket						24	571{}:#Soccer##				
+25	Up	Time-zone Multitude						25	170{2, 5, 10, 17, 34, 85}:#Up##				
+26	Piece	Painting Studio	Estate					26	291{3, 97}:#Piece##				
+Tether	Mirror	Filter Room	Vehicle			Light Room		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##				
+													
+Order	Identity	Standard	Value	Amount	Unit	Example							
+Chimney	Tense	You're welcome	Gun emoji	Bomb emoji	Gas emoji	Ping me							
+1	Noun	No worries	I'm sorry	No problem	Coming soon	Any doubt							
+2	Pronoun	Call me	Hello there	Thank you	I know	Knock knock							
+3	Verb	Just wait	Be happy	Looks good	I'm available	Yes please							
+4	Adverb	So easy	Common guys	What's up	Be sure	This one							
+5	Adjective	No panic	Okay cool	Fix it	Anything else	I'm here							
+6	Preposition	No idea	Just chilling	Need me	Show me	Follow up							
+7	Conjunction	Going through	Be serious	Kidding me	Go on	No answer							
+8	Interjection	It's fine	Quite complicated	Any reason	Calm down	See me							
+9	Punctuation	Please ignore	I think	I guess	No point	Coming back							
+10	Delimiter	Go for	Good morning	Good evening	Good night	Do first							
+11	Superscript	Got it	Frankly speaking	No issue	Text me	Kind of							
+12	Active	Come on	Hurry up	Doing what	It's reminder	No factor							
+13	Phrase	Don't know	Let me	Tell me	Inform me	Nothing new							
+14	Image												
+15	Passive												
+16	Subscript												
+17	Scale												
+18	Tag												
+19	Mnemonic												
+20	Spell												
+21	Word												
+22	Caution												
+23	Parse												
+24	Print												
+25	Cast												
+26	Case												
+Empty	Bill	H₂O	HNO₃	H₂SO₄	HCl	CO₂												
+
+
+
 -----------------
 - TEST SAMPLING -
 -----------------
