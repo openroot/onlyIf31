@@ -86,39 +86,40 @@ About	Work	Web Site	Rollout	List	Check	Laser Panel		200{2, 4, 5, 8, 10, 20, 25, 
 22	Pack	Toy Program	Position					22	398{2, 199}:#Pack##				
 23	Sharp	Functional Profile	Company					23	292{2, 4, 73, 146}:#Sharp##				
 24	Soccer	Adaptive Socket	Brand					24	571{}:#Soccer##				
-25	Up	Time-zone Multitude	Market					25	170{2, 5, 10, 17, 34, 85}:#Up##				
-26	Piece	Painting Studio	Estate	Orange	Mechanic			26	291{3, 97}:#Piece##				
+25	Up	Time-zone Multitude	Market	Engine	Chalk	Water Cooler		25	170{2, 5, 10, 17, 34, 85}:#Up##				
+26	Piece	Painting Studio	Estate	Mechanic	Orange	Wall Board		26	291{3, 97}:#Piece##				
 Tether	Mirror	Filter Room	Vehicle	Motion	Parallel	Light Room		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##				
 													
-Order	Identity	Standard	Value	Amount	Unit	Example							
-Chimney	Tense	You're welcome	Gun emoji	Bomb emoji	Gas emoji	Ping me							
-1	Noun	No worries	I'm sorry	No problem	Coming soon	Any doubt							
-2	Pronoun	Call me	Hello there	Thank you	I know	Knock knock							
-3	Verb	Just wait	Be happy	Looks good	I'm available	Yes please							
-4	Adverb	So easy	Common guys	What's up	Be sure	This one							
-5	Adjective	No panic	Okay cool	Fix it	Anything else	I'm here							
-6	Preposition	No idea	Just chilling	Need me	Show me	Follow up							
-7	Conjunction	Going through	Be serious	Kidding me	Go on	No answer							
-8	Interjection	It's fine	Quite complicated	Any reason	Calm down	See me							
-9	Punctuation	Please ignore	I think	I guess	No point	Coming back							
-10	Delimiter	Go for	Good morning	Good evening	Good night	Do first							
-11	Superscript	Got it	Frankly speaking	No issue	Text me	Kind of							
-12	Active	Come on	Hurry up	Doing what	It's reminder	No factor							
-13	Phrase	Don't know	Let me	Tell me	Inform me	Nothing new							
-14	Image												
-15	Passive												
-16	Subscript												
-17	Scale												
-18	Tag												
-19	Mnemonic												
-20	Spell												
-21	Word												
-22	Caution												
-23	Parse												
-24	Print												
-25	Cast												
-26	Case												
-Empty	Bill	H₂O	HNO₃	H₂SO₄	HCl	CO₂												
+										Standard		Example	
+Order	Identity	Standard	Value	Amount	Unit	Example		Order	Identity				
+Chimney	Tense	You're welcome	Gun emoji	Bomb emoji	Gas emoji	Ping me		Chimney	Tense				
+1	Noun	No worries	I'm sorry	No problem	Coming soon	Any doubt		1	Noun				
+2	Pronoun	Call me	Hello there	Thank you	I know	Knock knock		2	Pronoun				
+3	Verb	Just wait	Be happy	Looks good	I'm available	Yes please		3	Verb				
+4	Adverb	So easy	Common guys	What's up	Be sure	This one		4	Adverb				
+5	Adjective	No panic	Okay cool	Fix it	Anything else	I'm here		5	Adjective				
+6	Preposition	No idea	Just chilling	Need me	Show me	Follow up		6	Preposition				
+7	Conjunction	Going through	Be serious	Kidding me	Go on	No answer		7	Conjunction				
+8	Interjection	It's fine	Quite complicated	Any reason	Calm down	See me		8	Interjection				
+9	Punctuation	Please ignore	I think	I guess	No point	Coming back		9	Punctuation				
+10	Delimiter	Go for	Good morning	Good evening	Good night	Do first		10	Delimiter				
+11	Superscript	Got it	Frankly speaking	No issue	Text me	Kind of		11	Superscript				
+12	Active	Come on	Hurry up	Doing what	It's reminder	No factor		12	Active				
+13	Phrase	Don't know	Let me	Tell me	Inform me	Nothing new		13	Phrase				
+14	Image							14	Image				
+15	Passive							15	Passive				
+16	Subscript							16	Subscript				
+17	Scale							17	Scale				
+18	Tag							18	Tag				
+19	Mnemonic							19	Mnemonic				
+20	Spell							20	Spell				
+21	Word							21	Word				
+22	Caution							22	Caution				
+23	Parse							23	Parse				
+24	Print							24	Print				
+25	Cast							25	Cast				
+26	Case							26	Case				
+Empty	Bill	H₂O	HNO₃	H₂SO₄	HCl	CO₂		Empty	Bill				
 
 
 
