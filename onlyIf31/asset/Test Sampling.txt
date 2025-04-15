@@ -70,25 +70,25 @@ About	Work	Web Site	Rollout	List	Check	Laser Panel		200{2, 4, 5, 8, 10, 20, 25, 
 6	Task	Body Perfume	Environment			Thermal Paste		6	267{3, 89}:#Task##			135	
 7	Entertainment	Table Fan	Retail			TV Mount		7	497{7, 71}:#Entertainment##			207	7007
 8	Board	Musical Device	Insurance			Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247	
-9	Project	Leather Belt	Attribute					9	322{2, 7, 14, 23, 46, 161}:#Project##				
-10	Mode	Hand Dictionary	Crop					10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
-11	Win	Mass Carrier	Fuel					11	301{7, 43}:#Win##				
-12	Metal	First Aid	Security					12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##				
-13	Compile	Rechargeable Unit	Mutual					13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
-14	Clear	Net Coverage	Park					14	374{2, 11, 17, 22, 34, 187}:#Clear##				
-15	Mode	Cash Card	Factory					15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
-16	Border	Superficial Computer	Charity					16	143{11, 13}:#Border##				
-17	Concept	Bank Module	Hygiene					17	346{2, 173}:#Concept##				
-18	Zip	Utility Gear	Dimension					18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##				
-19	Flag	Note Book	Gateway					19	328{2, 4, 8, 41, 82, 164}:#Flag##				
-20	Jack	Food Tier	Forum					20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##				
-21	Meet	Series Lock	Agency					21	373{}:#Meet##				
-22	Pack	Toy Program	Position					22	398{2, 199}:#Pack##				
-23	Sharp	Functional Profile	Company					23	292{2, 4, 73, 146}:#Sharp##				
-24	Soccer	Adaptive Socket	Brand					24	571{}:#Soccer##				
+9	Project	Leather Belt	Attribute			Board Game		9	322{2, 7, 14, 23, 46, 161}:#Project##				
+10	Mode	Hand Dictionary	Crop			Workout Roller		10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+11	Win	Mass Carrier	Fuel			Photo Frame		11	301{7, 43}:#Win##				
+12	Metal	First Aid	Security			Plastic Toy		12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##				
+13	Compile	Rechargeable Unit	Mutual			Computer Server		13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##				
+14	Clear	Net Coverage	Park			Bluetooth Speaker		14	374{2, 11, 17, 22, 34, 187}:#Clear##				
+15	Mode	Cash Card	Factory			Keyboard Piano		15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##				
+16	Border	Superficial Computer	Charity			Compact Disc		16	143{11, 13}:#Border##				
+17	Concept	Bank Module	Hygiene			UV Purifier		17	346{2, 173}:#Concept##				
+18	Zip	Utility Gear	Dimension			Woollen Blanket		18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##				
+19	Flag	Note Book	Gateway			Electric Adapter		19	328{2, 4, 8, 41, 82, 164}:#Flag##				
+20	Jack	Food Tier	Forum			Manganese Capsule		20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##				
+21	Meet	Series Lock	Agency			Multifunctional Cutter		21	373{}:#Meet##				
+22	Pack	Toy Program	Position			Instant Cookware		22	398{2, 199}:#Pack##				
+23	Sharp	Functional Profile	Company			Storage Cupboard		23	292{2, 4, 73, 146}:#Sharp##				
+24	Soccer	Adaptive Socket	Brand	Spring	Spiral	Weighing Scale		24	571{}:#Soccer##				
 25	Up	Time-zone Multitude	Market	Engine	Chalk	Water Cooler		25	170{2, 5, 10, 17, 34, 85}:#Up##				
 26	Piece	Painting Studio	Estate	Mechanic	Orange	Wall Board		26	291{3, 97}:#Piece##				
-Tether	Mirror	Filter Room	Vehicle	Motion	Parallel	Light Room		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##				
+Tether	Mirror	Filter Room	Vehicle	Motion	Parallel	Light Room		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##					
 													
 										Standard		Example	
 Order	Identity	Standard	Value	Amount	Unit	Example		Order	Identity				
@@ -116,12 +116,10 @@ Chimney	Tense	You're welcome	Gun emoji	Bomb emoji	Gas emoji	Ping me		Chimney	Ten
 21	Word							21	Word				
 22	Caution							22	Caution				
 23	Parse							23	Parse				
-24	Print							24	Print				
-25	Cast							25	Cast				
-26	Case							26	Case				
+24	Print		So called	Such as	My signature			24	Print				
+25	Cast	Once upon	Address of	Throw in	Think twice	One more		25	Cast				
+26	Case	Soft node	How're you	Speak up	I'm testing	Which is		26	Case				
 Empty	Bill	H₂O	HNO₃	H₂SO₄	HCl	CO₂		Empty	Bill				
-
-
 
 -----------------
 - TEST SAMPLING -
