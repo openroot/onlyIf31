@@ -20,11 +20,11 @@
 	16	Border	Superficial Computer	Charity			Compact Disc		16	143{11, 13}:#Border##						
 	17	Concept	Bank Module	Hygiene			UV Purifier		17	346{2, 173}:#Concept##						
 	18	Zip	Utility Gear	Dimension			Woollen Blanket		18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##						
-	19	Flag	Note Book	Gateway			Electric Adapter		19	328{2, 4, 8, 41, 82, 164}:#Flag##						
-	20	Jack	Food Tier	Forum			Manganese Capsule		20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##						
-	21	Meet	Series Lock	Agency			Multifunctional Cutter		21	373{}:#Meet##						
-	22	Pack	Toy Program	Position			Instant Cookware		22	398{2, 199}:#Pack##						
-	23	Sharp	Functional Profile	Company			Storage Cupboard		23	292{2, 4, 73, 146}:#Sharp##						
+	19	Flag	Note Book	Gateway	Dongle	Form	Electric Adapter		19	328{2, 4, 8, 41, 82, 164}:#Flag##						
+	20	Jack	Food Tier	Forum	Circle	Gross	Manganese Capsule		20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##						
+	21	Meet	Series Lock	Agency	Boost	Segment	Multifunctional Cutter		21	373{}:#Meet##						
+	22	Pack	Toy Program	Position	Spread	Table	Instant Cookware		22	398{2, 199}:#Pack##						
+	23	Sharp	Functional Profile	Company	Rider	Invisible	Storage Cupboard		23	292{2, 4, 73, 146}:#Sharp##						
 	24	Soccer	Adaptive Socket	Brand	Spring	Spiral	Weighing Scale		24	571{}:#Soccer##						
 	25	Up	Time-zone Multitude	Market	Engine	Chalk	Water Cooler		25	170{2, 5, 10, 17, 34, 85}:#Up##						
 	26	Piece	Painting Studio	Estate	Mechanic	Orange	Wall Board		26	291{3, 97}:#Piece##						
@@ -52,10 +52,10 @@
 	17	Scale	Fly out	Drive at	Rocket science	Sit up	Jump in		17	Scale						
 	18	Tag	Sync in	Check out	No margin	Check in	Clean up		18	Tag						
 	19	Mnemonic	Look alike	That's why	Worth it	Set up	Some thing		19	Mnemonic						
-	20	Spell							20	Spell						
-	21	Word							21	Word						
-	22	Caution							22	Caution						
-	23	Parse							23	Parse						
+	20	Spell	Roll over	Wild card	Social page	Often times	Don't bother		20	Spell						
+	21	Word	Main domain	Make up	I understand	My branch	Primary language		21	Word						
+	22	Caution	Hold on	Certain me	The deal	Flat instruction	Bye bye		22	Caution						
+	23	Parse	Come again	Use case	Quite interesting	Minimum requirement	As if		23	Parse						
 	24	Print	Maintain space	So called	Such as	My signature	Excuse me		24	Print						
 	25	Cast	Once upon	Address of	Throw in	Think twice	One more		25	Cast						
 	26	Case	Soft node	How're you	Speak up	I'm testing	Which is		26	Case						
