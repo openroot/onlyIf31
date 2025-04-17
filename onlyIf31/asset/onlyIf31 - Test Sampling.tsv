@@ -15,11 +15,11 @@
 	11	Win	Mass Carrier	Fuel			Photo Frame		11	301{7, 43}:#Win##						
 	12	Metal	First Aid	Security			Plastic Toy		12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##						
 	13	Compile	Rechargeable Unit	Mutual			Computer Server		13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##						
-	14	Clear	Net Coverage	Park			Bluetooth Speaker		14	374{2, 11, 17, 22, 34, 187}:#Clear##						
-	15	Mode	Cash Card	Factory			Keyboard Piano		15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##						
-	16	Border	Superficial Computer	Charity			Compact Disc		16	143{11, 13}:#Border##						
-	17	Concept	Bank Module	Hygiene			UV Purifier		17	346{2, 173}:#Concept##						
-	18	Zip	Utility Gear	Dimension			Woollen Blanket		18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##						
+	14	Clear	Net Coverage	Park	Point		Bluetooth Speaker		14	374{2, 11, 17, 22, 34, 187}:#Clear##						
+	15	Mode	Cash Card	Factory	Quarter		Keyboard Piano		15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##						
+	16	Border	Superficial Computer	Charity	Shield	Bed	Compact Disc		16	143{11, 13}:#Border##						
+	17	Concept	Bank Module	Hygiene	Stream	Total	UV Purifier		17	346{2, 173}:#Concept##						
+	18	Zip	Utility Gear	Dimension	Calendar	Digit	Woollen Blanket		18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##						
 	19	Flag	Note Book	Gateway	Dongle	Form	Electric Adapter		19	328{2, 4, 8, 41, 82, 164}:#Flag##						
 	20	Jack	Food Tier	Forum	Circle	Gross	Manganese Capsule		20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##						
 	21	Meet	Series Lock	Agency	Boost	Segment	Multifunctional Cutter		21	373{}:#Meet##						
