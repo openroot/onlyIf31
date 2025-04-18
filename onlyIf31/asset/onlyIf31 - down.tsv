@@ -5,14 +5,14 @@
 	1	Palm	Tea Cup	Amenity	Thread	Paper	Electric UPS		1	58{2, 29}:#Palm##			2699			
 	2	Claim	Sleeping Pillow	Commodity	Saturate	Pastel	Display Unit		2	367{2, 4, 8, 47, 94, 188}:#Claim##			3265			
 	3	Book	Electric Extension	Telemetric	Buffer	Bell	USB Hub		3	323{17, 19}:#Book##			184			
-	4	Capital	Remote Lighting	Sector			USB Light		4	355{5, 71}:#Capital##			155			
-	5	Watch	Insect Protector	Property			Mosquito Zapper		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362			
-	6	Task	Body Perfume	Environment			Thermal Paste		6	267{3, 89}:#Task##			135			
-	7	Entertainment	Table Fan	Retail			TV Mount		7	497{7, 71}:#Entertainment##			207	7007		
-	8	Board	Musical Device	Insurance			Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247			
-	9	Project	Leather Belt	Attribute			Board Game		9	322{2, 7, 14, 23, 46, 161}:#Project##						
-	10	Mode	Hand Dictionary	Crop		Squad	Workout Roller		10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##						
-	11	Win	Mass Carrier	Fuel		Spoon	Photo Frame		11	301{7, 43}:#Win##						
+	4	Capital	Remote Lighting	Sector	Bus	Queue	USB Light		4	355{5, 71}:#Capital##			155			
+	5	Watch	Insect Protector	Property	Zoom	Pair	Mosquito Zapper		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362			
+	6	Task	Body Perfume	Environment	Ticket	Lever	Thermal Paste		6	267{3, 89}:#Task##			135			
+	7	Entertainment	Table Fan	Retail	Screw	Template	TV Mount		7	497{7, 71}:#Entertainment##			207	7007		
+	8	Board	Musical Device	Insurance	Live	Chip	Electronic Slate		8	575{5, 23, 25, 115}:#Board##			247			
+	9	Project	Leather Belt	Attribute	Pump	Bottle	Board Game		9	322{2, 7, 14, 23, 46, 161}:#Project##						
+	10	Mode	Hand Dictionary	Crop	Loan	Squad	Workout Roller		10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##						
+	11	Win	Mass Carrier	Fuel	Rail	Spoon	Photo Frame		11	301{7, 43}:#Win##						
 	12	Metal	First Aid	Security	Machine	Integer	Plastic Toy		12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##						
 	13	Compile	Rechargeable Unit	Mutual	Render	Float	Computer Server		13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##						
 	14	Clear	Net Coverage	Park	Point	Spool	Bluetooth Speaker		14	374{2, 11, 17, 22, 34, 187}:#Clear##						
