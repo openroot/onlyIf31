@@ -1,5 +1,5 @@
 																			
-	stack	line						phase						start					
+	stack	line						phase						start	day	morning	noon	evening	night
 	1	gym	skeleton		tube		light	pay	card		air		log	art	mushroom	basket	fruit	nourish	manual
 	2	tiffin	nerve		cap		cabin	canteen	quick		fire		cube	home	ace	giant	vitamin	cloud	solid
 	3	course	palm		channel		team	cost	policy		water		term	complex	candle	bar	boil	tip	ideal
@@ -9,10 +9,10 @@
 	7	tool	brow		stock		sign	style	wave		spark		sine	map			drop		
 	8	mart	tooth		dry		thin	manage	torque		nation		tiny	score			protein		
 	9	prize	spine		slab		lamp	service	experience		nuclear		lean	account			cereal		
-	10	app	rib		pen			basic			industry			sequence			sugar		
-	11	trade	nail		matter			toll			collage			test			chocolate		
-	12	slash	hair		epic			book			marble			grey			starch		
-	13	edition	mole		witness			brochure			cyber			hall			calcium		
+	10	app	rib		pen		guide	basic	vector		industry		big	sequence			sugar		
+	11	trade	nail		matter		same	toll	fraction		collage		segment	test			chocolate		
+	12	slash	hair		epic		symbol	book	section		marble		sense	grey			starch		
+	13	edition	mole		witness		land	brochure	small		cyber		laminate	hall			calcium		
 	14	city	transparent		tongue		street	glossary	solution		free		simple	help			memory		
 	15	sport	appoint		release		party	chart	point		century		parity	seal			finger		
 	16	lock	weight		bot		male	clock	make		character		mean	oath			foil		
@@ -26,7 +26,7 @@
 	24	atlas	wet		mix		sight	future	set		ink		slide	excise	alien	plain	blast	connect	sphere
 	25	nibble	bent		shuffle		boat	shade	back		pad		bit	icon	raw	grow	flux	core	scene
 	26	gain	vibrant		aid		support	asset	valve		trim		variety	sketch	aerodynamic	link	root	cream	slip
-	queue	ball						bat						wicket					
+	queue	ball						bat						wicket	mountain	stretch	hill	plateau	sea
 																			
 				hub							slide								
 				space	case						assembly	class							
