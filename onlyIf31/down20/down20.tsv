@@ -1,0 +1,63 @@
+														
+	simulate34							emulate29						
+	Order	Identity	Standard	Value	Amount	Unit	Example	Order	Identity	Standard	Value	Amount	Unit	Example
+	About	Work	Web Site	Rollout	List	Check	Laser Panel	Chimney	Tense	You're welcome	Gun emoji	Bomb emoji	Gas emoji	Ping me
+	1	Palm	Tea Cup	Amenity	Thread	Paper	Electric UPS	1	Noun	No worries	I'm sorry	No problem	Coming soon	Any doubt
+	2	Claim	Sleeping Pillow	Commodity	Saturate	Pastel	Display Unit	2	Pronoun	Call me	Hello there	Thank you	I know	Knock knock
+	3	Book	Electric Extension	Telemetric	Buffer	Bell	USB Hub	3	Verb	Just wait	Be happy	Looks good	I'm available	Yes please
+	4	Capital	Remote Lighting	Sector	Bus	Queue	USB Light	4	Adverb	So easy	Common guys	What's up	Be sure	This one
+	5	Watch	Insect Protector	Property	Zoom	Pair	Mosquito Zapper	5	Adjective	No panic	Okay cool	Fix it	Anything else	I'm here
+	6	Task	Body Perfume	Environment	Ticket	Lever	Thermal Paste	6	Preposition	No idea	Just chilling	Need me	Show me	Follow up
+	7	Entertainment	Table Fan	Retail	Screw	Template	TV Mount	7	Conjunction	Going through	Be serious	Kidding me	Go on	No answer
+	8	Board	Musical Device	Insurance	Live	Chip	Electronic Slate	8	Interjection	It's fine	Quite complicated	Any reason	Calm down	See me
+	9	Project	Leather Belt	Attribute	Pump	Bottle	Board Game	9	Punctuation	Please ignore	I think	I guess	No point	Coming back
+	10	Mode	Hand Dictionary	Crop	Loan	Squad	Workout Roller	10	Delimiter	Go for	Good morning	Good evening	Good night	Do first
+	11	Win	Mass Carrier	Fuel	Rail	Spoon	Photo Frame	11	Superscript	Got it	Frankly speaking	No issue	Text me	Kind of
+	12	Metal	First Aid	Security	Machine	Integer	Plastic Toy	12	Active	Come on	Hurry up	Doing what	It's reminder	No factor
+	13	Compile	Rechargeable Unit	Mutual	Render	Float	Computer Server	13	Phrase	Don't know	Let me	Tell me	Inform me	Nothing new
+	14	Clear	Net Coverage	Park	Point	Spool	Bluetooth Speaker	14	Image	Hook up	Take care	Count on	Pile up	Move on
+	15	Mode	Cash Card	Factory	Quarter	Double	Keyboard Piano	15	Passive	Push up	Hang on	Disc brake	Stop watch	Pull down
+	16	Border	Superficial Computer	Charity	Shield	Bed	Compact Disc	16	Subscript	Save it	I mean	So nice	I'm having	Any question
+	17	Concept	Bank Module	Hygiene	Stream	Total	UV Purifier	17	Scale	Fly out	Drive at	Rocket science	Sit up	Jump in
+	18	Zip	Utility Gear	Dimension	Calendar	Digit	Woollen Blanket	18	Tag	Sync in	Check out	No margin	Check in	Clean up
+	19	Flag	Note Book	Gateway	Dongle	Form	Electric Adapter	19	Mnemonic	Look alike	That's why	Worth it	Set up	Some thing
+	20	Jack	Food Tier	Forum	Circle	Gross	Manganese Capsule	20	Spell	Roll over	Wild card	Social page	Often times	Don't bother
+	21	Meet	Series Lock	Agency	Boost	Segment	Multifunctional Cutter	21	Word	Main domain	Make up	I understand	My branch	Primary language
+	22	Pack	Toy Program	Position	Spread	Table	Instant Cookware	22	Caution	Hold on	Certain me	The deal	Flat instruction	Bye bye
+	23	Sharp	Functional Profile	Company	Rider	Invisible	Storage Cupboard	23	Parse	Come again	Use case	Quite interesting	Minimum requirement	As if
+	24	Soccer	Adaptive Socket	Brand	Spring	Spiral	Weighing Scale	24	Print	Maintain space	So called	Such as	My signature	Excuse me
+	25	Up	Time-zone Multitude	Market	Engine	Chalk	Water Cooler	25	Cast	Once upon	Address of	Throw in	Think twice	One more
+	26	Piece	Painting Studio	Estate	Mechanic	Orange	Wall Board	26	Case	Soft node	How're you	Speak up	I'm testing	Which is
+	Tether	Mirror	Filter Room	Vehicle	Motion	Parallel	Light Room	Empty	Bill	H₂O	HNO₃	H₂SO₄	HCl	CO₂
+	Divisor	Derivative	Dividend	Quotient	Quantity	Quality	Remainder	Divisor	Derivative	Dividend	Quotient	Quantity	Quality	Remainder
+														
+				Standard		Example					Standard		Example	
+		Order	Identity	Rate	Total	Price	Sum		Order	Identity				
+		200{2, 4, 5, 8, 10, 20, 25, 40, 50, 100}:#About##	195{3, 5, 13, 15, 39, 65}:#Work##			299			Chimney	Tense				
+		1	58{2, 29}:#Palm##			2699			1	Noun				
+		2	367{2, 4, 8, 47, 94, 188}:#Claim##			3265			2	Pronoun				
+		3	323{17, 19}:#Book##			184			3	Verb				
+		4	355{5, 71}:#Capital##			155			4	Adverb				
+		5	162{2, 3, 6, 9, 18, 27, 54, 81}:#Watch##			362			5	Adjective				
+		6	267{3, 89}:#Task##			135			6	Preposition				
+		7	497{7, 71}:#Entertainment##			207	7007		7	Conjunction				
+		8	575{5, 23, 25, 115}:#Board##			247			8	Interjection				
+		9	322{2, 7, 14, 23, 46, 161}:#Project##			257			9	Punctuation				
+		10	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##			469			10	Delimiter				
+		11	301{7, 43}:#Win##			49			11	Superscript				
+		12	168{2, 3, 4, 6, 7, 8, 12, 14, 21, 24, 28, 42, 56, 84}:#Metal##			707			12	Active				
+		13	306{2, 3, 6, 9, 17, 18, 34, 51, 102, 153}:#Compile##						13	Phrase				
+		14	374{2, 11, 17, 22, 34, 187}:#Clear##						14	Image				
+		15	234{2, 3, 6, 9, 13, 18, 26, 39, 78, 117}:#Mode##						15	Passive				
+		16	143{11, 13}:#Border##						16	Subscript				
+		17	346{2, 173}:#Concept##						17	Scale				
+		18	392{2, 4, 7, 8, 14, 28, 49, 56, 98, 196}:#Zip##						18	Tag				
+		19	328{2, 4, 8, 41, 82, 164}:#Flag##						19	Mnemonic				
+		20	380{2, 4, 5, 10, 19, 20, 38, 76, 95, 190}:#Jack##						20	Spell				
+		21	373{}:#Meet##						21	Word				
+		22	398{2, 199}:#Pack##						22	Caution				
+		23	292{2, 4, 73, 146}:#Sharp##						23	Parse				
+		24	571{}:#Soccer##						24	Print				
+		25	170{2, 5, 10, 17, 34, 85}:#Up##						25	Cast				
+		26	291{3, 97}:#Piece##						26	Case				
+		469{7, 67}:#Tether##	462{2, 3, 6, 7, 11, 14, 21, 22, 33, 42, 66, 77, 154, 231}:#Mirror##						Empty	Bill				
