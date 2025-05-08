@@ -10,10 +10,10 @@ secular
 jargon
 billion
 
-Brahmaputra
-Indus
-Yamuna
-Saraswati
-Ganga
+ifBrahmaputra49
+forIndus35
+switchYamuna52
+whileSaraswati60
+elseGanga35
 
 binaryLizard49
