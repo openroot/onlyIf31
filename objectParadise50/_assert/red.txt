@@ -1,11 +1,11 @@
-node
-leaf
+Node
+Leaf
 
-structure
-keyword
+Structure
+Keyword
 
-subject
-catalogue
+Subject
+Catalogue
 
 Saturday
 Sunday
