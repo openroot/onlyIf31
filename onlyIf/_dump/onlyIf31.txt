@@ -1,4 +1,5 @@
 -----------------------------
+-----------------------------
 
 *	Cancer: Stinky Disease
 ..	Unproductive: Spiny Gourd
@@ -30,6 +31,8 @@
 26.	Slowness: Brinjal
 ::.	Anaemia: Squash
 
+-----------------------------
+
 *	Unhygienic: A Sick Life
 ..	Complaint: Due
 1.	Tire: Miss
@@ -60,4 +63,5 @@
 26.	Complication: Suspense
 ::.	Treatment: Handkerchief
 
+-----------------------------
 -----------------------------
