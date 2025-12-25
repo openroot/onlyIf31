@@ -1,0 +1,59 @@
+*	Cancer: Stinky Disease
+..	Unproductive: Spiny Gourd
+1.	Cheapness: Papaya
+2.	Weakness: Potato
+3.	Lowest: Avocado
+4.	Looser: Raspberry
+5.	Pollution: Pumpkin
+6.	Ripped: Jackfruit
+7.	Nonsense: Apple
+8.	Imbalance: Rose
+9.	Loudness: Jasmine
+10.	Immobility: Daffodil
+11.	Stammer: Doo Moor
+12.	Haziness: Nettle
+13.	Dizziness: Eucalyptus
+14.	Falter: Calabash
+15.	Impatient: Bay Laurel
+16.	Insomnia: Green Tea
+17.	Foul: Pointed Gourd
+18.	Unfair: Skunk Vine
+19.	Baldness: Butter Milk
+20.	Anger: Elephant Foot Yam
+21.	Sentimental: Ridge Gourd
+22.	Competitiveness: Brown Rice
+23.	Arrogant: King Of Limes
+24.	Fatigue: Malabar Spinach
+25.	Blindness: Wish Flower
+26.	Slowness: Brinjal
+::.	Anaemia: Squash
+
+*	Unhygienic: A Sick Life
+..	Complaint: Due
+1.	Tire: Miss
+2.	Bore: Snick
+3.	Leak: Skid
+4.	Odour: Anti
+5.	Tension: Stiff
+6.	Rush: Irregular
+7.	Rumour: Period
+8.	Ridicule: Fool
+9.	Blasphemy: Flee
+10.	Arouse: Excite
+11.	Hack: Ill
+12.	Cult: Anonymous
+13.	Risk: Fragile
+14.	Pain: Clash
+15.	Radical: Offence
+16.	Untidy: Ugly
+17.	Invisible: Mock
+18.	Swear: Culprit
+19.	Confuse: Duplicate
+20.	Addiction: Late
+21.	Fake: Lame
+22.	Remorse: Fail
+23.	Recycle: Waste
+24.	Struggle: Troll
+25.	Unpleasant: Crack
+26.	Complication: Suspense
+::.	Treatment: Handkerchief
